@@ -1,0 +1,52 @@
+.app {
+  text-align: center;
+  background-color: #6b7a8f;
+  padding: 30px;
+}
+
+.app .heading {
+  color: #d3d3d3;
+}
+
+.organisim {
+  background-color: #f7c331;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.molecule {
+  background-color: #f7882f;
+  padding: 30px;
+}
+
+.display-details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.display-details .wrapper {
+  width: 200px;
+  padding: 30px;
+  background-color: #dcc7aa;
+}
+
+.my-button {
+  font-size: 16px;
+  font-weight:bold;
+  padding: 7px 12px;
+  cursor:pointer;
+  line-height:16px;
+  display:inline-block;
+  background-color: #fff;
+}
+
+.my-data {
+  margin-bottom: 10px;
+}
+
+.my-number {
+  font-size: 50px;
+  color: #6b7a8f;
+  font-weight: bold;
+}
