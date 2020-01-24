@@ -22,7 +22,7 @@ const DisplayDetails = () => {
         <div className="my-data">
           <div>{`${firstName} ${lastName}`}</div>
           <div>{profession}</div>
-          <div className="my-number">{myNumber > 0 && myNumber}</div>
+          <div className="my-number">{myNumber}</div>
         </div>
         <button onClick={() => handleUpdateNumber()} className="my-button">Random number</button>
       </div>
